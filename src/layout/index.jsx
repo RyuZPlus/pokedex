@@ -5,7 +5,7 @@ const Layout = (props) => {
     <div>
         <header className='bg-black shadow'>
             <div className='mx-auto py-6 px-4'>
-                <h1 className='text-white font-bold text-3x1'>DataTable</h1>    
+                <h1 className='text-white font-bold text-3x1'>Aarón David Gutierrez Vera</h1>    
             </div>
         </header>
         <main>
